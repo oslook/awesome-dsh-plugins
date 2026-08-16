@@ -7,6 +7,7 @@ large ecosystem of extensions.
 This list contains **621 repositories** — every public repository.
 
 ## Plugins
+- [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) - Complete reverse-skill pack (85 SKILL.md) as a DeepSeek Harness Cordis plugin: reverse engineering, authorized pentesting and security-research skill router.
 
 | Repository | Stars | Language | Description |
 |-----------|------:|----------|-------------|
