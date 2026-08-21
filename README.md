@@ -4,7 +4,7 @@ A curated list of **DeepSeek Harness (DSH)** plugins. DeepSeek Harness is an
 agent harness where *"everything is a plugin"*, and the community has built a
 large ecosystem of extensions.
 
-This list contains **621 repositories** — every public repository.
+This list contains **624 repositories** — every public repository.
 
 ## Plugins
 
@@ -478,6 +478,7 @@ This list contains **621 repositories** — every public repository.
 | [BrambleXu/dsh-prompt-profile](https://github.com/BrambleXu/dsh-prompt-profile) | 0 | TypeScript | Reusable Markdown prompt profiles for DeepSeek Harness with per-turn model selection, argument substitution, and state restoration. DeepSeek Harness 可复用 Markdown Prompt Profile，支持单轮模型选择、参数替换和状态恢复。 |
 | [BrambleXu/dsh-revdiff](https://github.com/BrambleXu/dsh-revdiff) | 0 | TypeScript | Native interactive Git diff review for DeepSeek Harness with structured annotations sent back to the current Agent session. DeepSeek Harness 原生交互式 Git diff 审查，支持结构化批注并回传当前 Agent 会话。 |
 | [causebefore/dsh-pomodoro](https://github.com/causebefore/dsh-pomodoro) | 0 | JavaScript | DeepSeek Harness Web 番茄钟插件：可配置专注与休息时长，提供侧栏入口和可拖动浮动面板 |
+| [CCYEX/dsh-ui-scale](https://github.com/CCYEX/dsh-ui-scale) | 0 | JavaScript | DeepSeek Harness pure UI scale plugin: one line of CSS to make 2K/4K screens look like 1080p proportions. |
 | [Chi-hong22/dsh-latexcp](https://github.com/Chi-hong22/dsh-latexcp) | 0 | JavaScript | DeepSeek Harness (DSH) Web 界面 LaTeX 公式复制插件：悬停公式浮现复制按钮，一键复制公式的 TeX 源码。 |
 | [Chi-hong22/dsh-mdbox](https://github.com/Chi-hong22/dsh-mdbox) | 0 | JavaScript | DeepSeek Harness (DSH) Web 输入框的 Markdown 编辑辅助插件。 |
 | [ChuanTianML/dsh-island](https://github.com/ChuanTianML/dsh-island) | 0 | Swift | A lightweight macOS status island for every DeepSeek Harness session. |
