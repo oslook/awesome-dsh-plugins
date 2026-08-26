@@ -560,7 +560,7 @@ This list contains **621 repositories** — every public repository.
 | [longyu065/dsh-theme-ti](https://github.com/longyu065/dsh-theme-ti) | 0 | JavaScript |  |
 | [lordship12138-crypto/dsh-plugin-dedup](https://github.com/lordship12138-crypto/dsh-plugin-dedup) | 0 | JavaScript |  |
 | [Luaphes/dsh-web-attention-badge](https://github.com/Luaphes/dsh-web-attention-badge) | 0 | JavaScript | Attention reminders for the DeepSeek Harness Web UI: frame badge, (N) tab title and whale-favicon recolor for sessions waiting for input or finished unopened. |
-| [DSH-SessionManager](https://github.com/BISTU-guheihei/DSH-SessionManager) — 会话管理工具：回收站删除（可恢复）/归档/统计详情/缓存清理，深色鲸鱼娘主题 GUI + 命令行，支持 Windows/Linux|
+| [DSH-SessionManager](https://github.com/BISTU-guheihei/DSH-SessionManager) | 0 | Python | 会话管理工具：回收站删除（可恢复）/归档/统计详情/缓存清理，深色鲸鱼娘主题 GUI + 命令行，支持 Windows/Linux |
 | [LuZhouheng/dsh-gen3d](https://github.com/LuZhouheng/dsh-gen3d) | 0 | TypeScript | DeepSeek Harness 3D 角色生成插件：直连 Meshy / Hunyuan3D / Tripo3D / Rodin 官方 API，自配 key，mock 回退 |
 | [lxj808624/dsh-tool-git](https://github.com/lxj808624/dsh-tool-git) | 0 | TypeScript | Structured safe Git tools for DeepSeek Harness (dsh): git_status/diff/log/branch/stage/commit/stash/show + destructive-command guard |
 | [lynkas/dsh-think-flow-flow](https://github.com/lynkas/dsh-think-flow-flow) | 0 | TypeScript | DeepSeek Harness client plugin: constant-rate typewriter reveal for assistant output and reasoning, with per-model gating. |
