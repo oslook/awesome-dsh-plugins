@@ -10,6 +10,7 @@ This list contains **621 repositories** — every public repository.
 
 | Repository | Stars | Language | Description |
 |-----------|------:|----------|-------------|
+| [jiangchuangege/xiaojiao-harness](https://github.com/jiangchuangege/xiaojiao-harness) | 0 | Python | 小焦 XiaoJiao · DeepSeek Harness 插件生态伙伴：本地AI助手(人格+工具+记忆+联网+四类插件生态py/js/api/skill+皮肤系统+DSH式Web布局)，兼容 DSH 社区插件，OpenAI兼容 /v1，可当 dsh 模型。 |
 | [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 740 | TypeScript | Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center. |
 | [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 338 | TypeScript | 解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。 |
 | [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 253 | TypeScript | 一个侧边栏的完整工作台，支持三方拓展注册新Tab页面，内置文件渲染编辑/终端/Git/子代理 |
