@@ -16,6 +16,7 @@ This list contains **621 repositories** — every public repository.
 | [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | 196 | TypeScript | 让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI. |
 | [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) | 177 | TypeScript | DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0 |
 | [Nagi-ovo/dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 154 | TypeScript | 是兄弟就来蹬我！DSH Web UI 广告：2005 年中文站点风格的侧栏广告 / 对话内信息流 / 角落弹窗 + 一个真实热区比视觉小得多的关闭叉。素材全虚构，域名打码。 |
+| [xiajiajun516/dsh-config-manager](https://github.com/xiajiajun516/dsh-config-manager) | 132 | TypeScript | DSH 配置的备份 / 恢复 / 导出 / 导入 / 迁移与同步（设置、插件、MCP、技能、Agent 预设、工作区）：写盘前先预览、冲突逐项决策、跨机自动重映射路径，可选加密携带凭据，内置配置市场。 |
 | [NanmiCoder/dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) | 105 | TypeScript | AgentTeams plugin for DeepSeek Harness |
 | [huiliyi37/dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) | 81 | TypeScript | dsh-tianshu-tui — DeepSeek Harness terminal UI +harness workflow。是官方 DeepSeek Harness 上的交互式终端 UI 插件。渲染核心从本仓库自研的harness agent  Tianshu-Tui 演进而来，在官方的基础上增加了TDD与证据门等工作流。 |
 | [omdsh-dev/dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) | 46 | JavaScript | Codex-style @file mentions for DeepSeek Harness: search workspace files in the composer and attach their contents to prompts. |
